@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="390px" viewBox="0 0 560 390" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Fonts</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Fonts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="560" height="390"></rect>
+        <text id="Roboto-regular" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#494D5B">
+            <tspan x="10" y="22">Roboto regular</tspan>
+        </text>
+        <text id="Roboto-italic" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#494D5B">
+            <tspan x="300" y="22">Roboto italic</tspan>
+        </text>
+        <text id="abcdefghijklmnopqrst" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#494D5B">
+            <tspan x="11" y="123">abcdefghijklmnopqrstuvwxyz</tspan>
+        </text>
+        <text id="abcdefghijklmnopqrst-copy" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#494D5B">
+            <tspan x="11" y="323">abcdefghijklmnopqrstuvwxyz</tspan>
+        </text>
+        <text id="abcdefghijklmnopqrst-copy-2" font-family="Roboto-Italic, Roboto" font-size="16" font-style="italic" font-weight="normal" fill="#494D5B">
+            <tspan x="300" y="123">abcdefghijklmnopqrstuvwxyz</tspan>
+        </text>
+        <text id="abcdefghijklmnopqrst-copy-3" font-family="Roboto-BoldItalic, Roboto" font-size="16" font-style="italic" font-weight="bold" fill="#494D5B">
+            <tspan x="300" y="323">abcdefghijklmnopqrstuvwxyz</tspan>
+        </text>
+        <text id="aefgMO" font-family="Roboto-Regular, Roboto" font-size="64" font-weight="normal" fill="#494D5B">
+            <tspan x="9" y="90">aefgMO</tspan>
+        </text>
+        <text id="aefgMO-Copy-2" font-family="Roboto-Bold, Roboto" font-size="64" font-weight="bold" fill="#494D5B">
+            <tspan x="9" y="290">aefgMO</tspan>
+        </text>
+        <text id="aefgMO-Copy" font-family="Roboto-Italic, Roboto" font-size="64" font-style="italic" font-weight="normal" fill="#494D5B">
+            <tspan x="300" y="90">aefgMO</tspan>
+        </text>
+        <text id="aefgMO-Copy-3" font-family="Roboto-BoldItalic, Roboto" font-size="64" font-style="italic" font-weight="bold" fill="#494D5B">
+            <tspan x="300" y="290">aefgMO</tspan>
+        </text>
+        <text id="ABCDEFGHIJKLMNOPQRST" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#494D5B">
+            <tspan x="11" y="144">ABCDEFGHIJKLMNOPQRSTUVWXYZ</tspan>
+        </text>
+        <text id="ABCDEFGHIJKLMNOPQRST-Copy" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#494D5B">
+            <tspan x="11" y="344">ABCDEFGHIJKLMNOPQRSTUVWXYZ</tspan>
+        </text>
+        <text id="ABCDEFGHIJKLMNOPQ" font-family="Roboto-Italic, Roboto" font-size="16" font-style="italic" font-weight="normal" fill="#494D5B">
+            <tspan x="300" y="144">ABCDEFGHIJKLMNOPQ</tspan>
+        </text>
+        <text id="ABCDEFGHIJKLMNOPQ-Copy" font-family="Roboto-BoldItalic, Roboto" font-size="16" font-style="italic" font-weight="bold" fill="#494D5B">
+            <tspan x="300" y="344">ABCDEFGHIJKLMNOPQ</tspan>
+        </text>
+        <text id="1234567890-öäüß" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#494D5B">
+            <tspan x="11" y="165">1234567890 öäüß</tspan>
+        </text>
+        <text id="1234567890-öäüß-copy" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#494D5B">
+            <tspan x="11" y="365">1234567890 öäüß</tspan>
+        </text>
+        <text id="1234567890-öäüß-copy-2" font-family="Roboto-Italic, Roboto" font-size="16" font-style="italic" font-weight="normal" fill="#494D5B">
+            <tspan x="300" y="165">1234567890 öäüß</tspan>
+        </text>
+        <text id="1234567890-öäüß-copy-3" font-family="Roboto-BoldItalic, Roboto" font-size="16" font-style="italic" font-weight="bold" fill="#494D5B">
+            <tspan x="300" y="365">1234567890 öäüß</tspan>
+        </text>
+        <text id="Roboto-bold" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#494D5B">
+            <tspan x="11" y="222">Roboto bold</tspan>
+        </text>
+        <text id="Roboto-bold-italic" font-family="Roboto-BoldItalic, Roboto" font-size="16" font-style="italic" font-weight="bold" fill="#494D5B">
+            <tspan x="300" y="222">Roboto bold italic</tspan>
+        </text>
+    </g>
+</svg>
