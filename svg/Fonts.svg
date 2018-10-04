@@ -27,14 +27,14 @@
         <text id="aefgMO" font-family="Roboto-Regular, Roboto" font-size="64" font-weight="normal" fill="#494D5B">
             <tspan x="9" y="90">aefgMO</tspan>
         </text>
-        <text id="aefgMO-Copy-2" font-family="Roboto-Bold, Roboto" font-size="64" font-weight="bold" fill="#494D5B">
-            <tspan x="9" y="290">aefgMO</tspan>
+        <text id="aefgXO" font-family="Roboto-Bold, Roboto" font-size="64" font-weight="bold" fill="#494D5B">
+            <tspan x="9" y="290">aefgXO</tspan>
         </text>
         <text id="aefgMO-Copy" font-family="Roboto-Italic, Roboto" font-size="64" font-style="italic" font-weight="normal" fill="#494D5B">
             <tspan x="300" y="90">aefgMO</tspan>
         </text>
-        <text id="aefgMO-Copy-3" font-family="Roboto-BoldItalic, Roboto" font-size="64" font-style="italic" font-weight="bold" fill="#494D5B">
-            <tspan x="300" y="290">aefgMO</tspan>
+        <text id="aefgXO" font-family="Roboto-BoldItalic, Roboto" font-size="64" font-style="italic" font-weight="bold" fill="#494D5B">
+            <tspan x="300" y="290">aefgXO</tspan>
         </text>
         <text id="ABCDEFGHIJKLMNOPQRST" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#494D5B">
             <tspan x="11" y="144">ABCDEFGHIJKLMNOPQRSTUVWXYZ</tspan>
