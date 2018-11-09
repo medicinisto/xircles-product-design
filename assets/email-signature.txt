@@ -1,6 +1,6 @@
 --
 Xircles is a product of Medicinisto AG
-Firstname Lastname
+Firstname Lastname, Function
 Phone +49 30 25 78 19 85
 Mobile +49 000 000 000 
 firstname@xircles.com 
