@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon512</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#8DD1CE" offset="0%"></stop>
+            <stop stop-color="#E065A4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icon512" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4-Copy-7" transform="translate(256.000000, 256.000000) rotate(90.000000) translate(-256.000000, -256.000000) translate(46.000000, 46.000000)">
+            <circle id="Oval-3" fill="#494D5B" cx="209.955101" cy="209.955101" r="209.955101"></circle>
+            <g id="Group-3" transform="translate(97.906524, 54.388439)" fill="url(#linearGradient-1)">
+                <path d="M181.504991,310.515139 L112.632341,204.460558 L42.7357435,312.091879 C28.1751737,305.698908 14.6932649,297.305167 2.63844499,287.258871 L84.5203196,161.171841 L0.0321992255,31.0715447 C11.8827299,20.7761794 25.1880662,12.1099284 39.599057,5.42172993 L112.632341,117.883125 L184.651599,6.98319202 C198.898927,13.9952362 212.009921,22.9617688 223.634224,33.5326462 L140.744362,161.171841 L221.020171,284.785746 C209.189599,295.105432 195.901459,303.798239 181.504991,310.515139 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
